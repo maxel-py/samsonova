@@ -1,5 +1,5 @@
 msg = "sd'sdf'f"
-msg1 = "sd'sfdf"
+msg1 = "sd'sdf"
 print(msg)
 
 
